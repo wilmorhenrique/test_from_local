@@ -8,3 +8,6 @@ asf
 
 
 Adicionado depois do commit
+
+
+Editado na pagina
